@@ -8,7 +8,7 @@ Proof-of-Concept of simply adding a data layer to bathrooms to track usage, usin
 ### Project Tags
 <div align="left">
   <img src="tags/uiowa.svg" width="123" alt="Uiowa" />
-  <img src="tags/agentic.svg" width="171" alt="Handwritten" />
+  <img src="tags/agentic.svg" width="129" alt="Agentic" />
   <img src="tags/firebase.svg" width="204" alt="Firebase" />
   <img src="tags/figma.svg" width="60" alt="Figma" />
   <img src="tags/python.svg" width="60" alt="Python" />
