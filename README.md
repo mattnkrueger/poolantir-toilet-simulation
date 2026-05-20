@@ -82,15 +82,15 @@ walk into a restroom to find that they are all full.
   <p align="center"><strong>3D Model (Left) & Digital Twin (Right)</strong></p>
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; gap: 8px;">
-    <img src="img/kicad.png" alt="pinout" width="575"/>
-    <img src="img/poster-tv.png" alt="activation" width="425"/>
+    <img src="img/kicad.png" alt="pinout" height="300"/>
+    <img src="img/poster-tv.png" alt="activation" height="300"/>
 </div>
   <p align="center"><strong>ESP32 Pinout (Left) & ToF Sensor Activation (Right)</strong></p>
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; gap: 8px;">
-    <img src="img/pcb.png" alt="pcb kicad" width="300"/>
-    <img src="img/pcb-real.png" alt="pcb real" width="300"/>
-    <img src="img/wiring.png" alt="wiring" width="400"/>
+    <img src="img/pcb.png" alt="pcb kicad" height="300"/>
+    <img src="img/pcb-real.png" alt="pcb real" height="300"/>
+    <img src="img/wiring.png" alt="wiring" height="300"/>
 </div>
   <p align="center"><strong>PCB Design (Left), PCB Assembled (Middle), Wiring (Right)</strong></p>
 
