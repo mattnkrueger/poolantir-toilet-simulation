@@ -1,4 +1,4 @@
-# IoT Final Project: Poolantir
+# poolantir-toilet-simulation
 
 <p align="center">
   <img src="img/logo.svg" alt="Poolantir" width="480" />
@@ -74,21 +74,22 @@ walk into a restroom to find that they are all full.
 </p>
 
 <div align="center">
-  <img src="img/poster-iso.png" width="48%" alt="Simulation Model" />
+  <img src="img/poster-iso.png" alt="Simulation Model" />
   <p align="center"><strong>Simulation Model</strong></p>
 </div>
 
 <div align="center">
-  <img src="img/digital-twin.png" width="48%" alt="Digital Twin" />
+  <img src="img/digital-twin.png" alt="Digital Twin" />
   <p align="center"><strong>Digital Twin</strong></p>
 </div>
 
 ## Project Demo
 
-<video controls>
-  <source src="/img/Poolanitr_Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div align="center">
+  <img src="img/demo_thumbnail.png" alt="Demo"/>
+  <p align="center"><strong>Please download the Demo Video (.mp4 file is too large to display here)</strong></p>
+</div>
+
 
 Demo Video: [Poolantir_Demo.mp4](/img/Poolanitr_Demo.mp4)
 
@@ -120,7 +121,7 @@ of OpenMP to better simulated human behavior. A few all-nighters were pulled and
 Selected to present the project alongside Senior Design and other cool projects at the Uiowa ECE Modern Marvels event. 
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
-  <img src="img/group-photo.jpeg" width="48%" alt="Group photo at Modern Marvels" style="margin-bottom: 16px;" />
-  <img src="img/poster.jpg" width="48%" alt="Project poster" />
+  <img src="img/group-photo.jpeg" alt="Group photo at Modern Marvels" style="margin-bottom: 16px;" />
+  <img src="img/poster.jpg" alt="Project poster" />
 </div>
 <p align="center"><strong>Project Showcase</strong></p>
