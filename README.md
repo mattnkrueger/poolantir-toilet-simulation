@@ -68,30 +68,31 @@ layover and are expected to board in 5 minutes. There may be multiple bathrooms 
 Ultimately, using the restroom is a sacred time and one that is not to be meddled with. In my honest opinion, there are few letdowns worse than really needing to use a toilet, only to 
 walk into a restroom to find that they are all full.
 
+## Project Images
+
 <p align="center">
-  <img src="img/poster-arch.svg" alt="System architecture" width="900" />
+  <img src="img/poster-arch.svg" alt="System architecture" width="600" />
   <strong>System Architecture</strong><br />
 </p>
 
 <div align="center">
-  <img src="img/poster-iso.png" alt="Simulation Model" />
+  <img src="img/poster-iso.png" alt="Simulation Model" width="600"/>
   <p align="center"><strong>Simulation Model</strong></p>
 </div>
 
 <div align="center">
-  <img src="img/digital-twin.png" alt="Digital Twin" />
+  <img src="img/digital-twin.png" alt="Digital Twin" width="600"/>
   <p align="center"><strong>Digital Twin</strong></p>
 </div>
 
 ## Project Demo
 
 <div align="center">
-  <img src="img/demo_thumbnail.png" alt="Demo"/>
-  <p align="center"><strong>Please download the Demo Video (.mp4 file is too large to display here)</strong></p>
+  <a href="img/Poolanitr_Demo.mp4" title="View Demo Video">
+    <img src="img/demo_thumbnail.png" alt="Demo" style="cursor: pointer;"/>
+  </a>
+  <p align="center"><strong>Click the image above to view the <a href="img/Poolanitr_Demo.mp4">Demo Video</a> (the .mp4 file is too large to display here)</strong></p>
 </div>
-
-
-Demo Video: [Poolantir_Demo.mp4](/img/Poolanitr_Demo.mp4)
 
 ## My Contributions
 I was in charge of the project planning and simulation of data. I did not touch any of the ML / Data layer.
