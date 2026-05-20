@@ -75,15 +75,17 @@ walk into a restroom to find that they are all full.
   <p align="center"><strong>Project Architecture</strong></p>
 </p>
 
-<div align="center">
-  <img src="img/poster-iso.png" alt="Simulation Model" width="600"/>
-  <p align="center"><strong>Simulation Model</strong></p>
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: flex-start; gap: 32px;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="img/poster-iso.png" alt="Simulation Model" width="400"/>
+    <p align="center"><strong>Simulation Model</strong></p>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="img/digital-twin.png" alt="Digital Twin" width="400"/>
+    <p align="center"><strong>Digital Twin</strong></p>
+  </div>
 </div>
 
-<div align="center">
-  <img src="img/digital-twin.png" alt="Digital Twin" width="600"/>
-  <p align="center"><strong>Digital Twin</strong></p>
-</div>
 
 ## Project Demo
 
