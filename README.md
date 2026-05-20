@@ -1,4 +1,4 @@
-# poolantir-toilet-simulation
+# IoT Final Project: Poolantir
 
 <p align="center">
   <img src="img/logo.svg" alt="Poolantir" width="480" />
