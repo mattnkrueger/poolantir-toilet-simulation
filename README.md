@@ -30,7 +30,7 @@ Proof-of-Concept of simply adding a data layer to bathrooms to track usage, usin
 
 ## Project Idea
 
-Our project is a non-invasive proof-of-concept that demonstrates
+This project is a non-invasive proof-of-concept that demonstrates
 how adding a layer of data analysis to existing self-flush toilets can
 optimize maintenance schedules and automate incident reports,
 thereby promoting cleaner restrooms. Data is collected using a 3D
