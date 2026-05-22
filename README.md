@@ -130,6 +130,6 @@ Selected to present the project alongside Senior Design and other cool projects 
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; gap: 8px;">
   <img src="img/poster.jpg" alt="Project poster" height="500" />
-  <img src="img/group-photo.jpeg" alt="Group photo at Modern Marvels" style="margin-bottom: 16px; height="500" />
+  <img src="img/group-photo.jpeg" alt="Group photo at Modern Marvels" style="margin-bottom: 16px; width="500" />
 </div>
 <p align="center"><strong>Project Showcase</strong></p>
