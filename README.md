@@ -1,10 +1,5 @@
 # poolantir-toilet-simulation
 
-<p align="center">
-  <img src="img/poster-arch.svg" alt="System architecture" width="600" />
-  <p align="center"><strong>Project Architecture</strong></p>
-</p>
-
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; gap: 8px;">
     <img src="img/poster-iso.png" alt="Simulation Model" width="425"/>
     <img src="img/digital-twin.png" alt="Digital Twin" width="575"/>
@@ -75,6 +70,15 @@ layover and are expected to board in 5 minutes. There may be multiple bathrooms 
 Ultimately, using the restroom is a sacred time and one that is not to be meddled with. In my honest opinion, there are few letdowns worse than really needing to use a toilet, only to 
 walk into a restroom to find that they are all full.
 
+## System Architecture
+This project created a star network of ESP32 bathroom nodes to monitor whether or not a user has entered the range of the ToF sensor (meaning someone is using the toilet). This information is collected via a gateway device (macbook for our project) and transmitted to a Firebase Database to log historical toilet uses. This information is then used downstream within our mobile application and ML model. 
+
+I was responsible for the simulation of the 
+<p align="center">
+  <img src="img/poster-arch.svg" alt="System architecture" width="600" />
+  <p align="center"><strong>Project Architecture</strong></p>
+</p>
+
 ## Project Images
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; gap: 8px;">
@@ -125,7 +129,7 @@ of OpenMP to better simulated human behavior. A few all-nighters were pulled and
 Selected to present the project alongside Senior Design and other cool projects at the Uiowa ECE Modern Marvels event. 
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
-  <img src="img/group-photo.jpeg" alt="Group photo at Modern Marvels" style="margin-bottom: 16px;" />
-  <img src="img/poster.jpg" alt="Project poster" />
+  <img src="img/poster.jpg" alt="Project poster" height="500" />
+  <img src="img/group-photo.jpeg" alt="Group photo at Modern Marvels" style="margin-bottom: 16px; height="500" />
 </div>
 <p align="center"><strong>Project Showcase</strong></p>
